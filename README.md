@@ -6,7 +6,7 @@ The original MNIST dataset contains a lot of handwritten digits. Members of the 
 Zalando seeks to replace the original MNIST dataset
 
 # Accuracy and Model Details
-My model consists of four layers with one input and output layer and two hidden layers respectively. Most of the details about it are clearly commented in my code. With the above architecture, I was able to achieve an accuracy of 88.3%.
+My model consists of five layers with one input and output layer and three hidden layers respectively. Most of the details about it are clearly commented in my code. With the above architecture, I was able to achieve an accuracy of 88.3%.
 
 # Labels
 Each training and test example is assigned to one of the following labels:
